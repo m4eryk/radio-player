@@ -1,1 +1,1 @@
-export { guestRouter } from './guest.js';
+export { guestRouter } from './guest';
