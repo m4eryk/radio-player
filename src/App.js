@@ -1,6 +1,6 @@
 import React from 'react';
 import { ChakraProvider, theme } from '@chakra-ui/react';
-import { guestRouter } from './routes';
+import { guestRouter } from 'src/routes';
 import { RouterProvider } from 'react-router';
 
 const App = () => (
