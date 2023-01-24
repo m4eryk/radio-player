@@ -28,6 +28,7 @@ module.exports = {
     'semi': [
       'error',
       'always'
-    ]
+    ],
+    'react/prop-types': [0],
   }
 };
